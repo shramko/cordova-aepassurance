@@ -14,7 +14,7 @@
     </js-module>
 
     <!-- dependency on ACPCore plugin -->
-    <dependency id="cordova-acpcore" url="https://github.com/adobe/cordova-acpcore" />
+    <dependency id="cordova-acpcore-fork" url="https://github.com/shramko/cordova-acpcore" />
 
     <!--configure android platform -->
     <platform name="android">
