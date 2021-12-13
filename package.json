@@ -1,9 +1,9 @@
 {
-  "name": "@adobe/cordova-aepassurance",
+  "name": "cordova-aepassurance-fork",
   "version": "0.0.1",
-  "description": "Adobe Experience Platform - AEP Assurance plugin for Cordova apps.",
+  "description": "Adobe Experience Platform - AEP Assurance plugin for Cordova apps (fork from https://github.com/adobe/cordova-aepassurance).",
   "cordova": {
-    "id": "cordova-aepassurance",
+    "id": "cordova-aepassurance-fork",
     "platforms": [
       "ios",
       "android"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/cordova-aepassurance"
+    "url": "https://github.com/shramko/cordova-aepassurance"
   },
   "keywords": [
     "adobe",

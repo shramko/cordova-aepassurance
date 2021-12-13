@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="cordova-aepassurance"
+<plugin id="cordova-aepassurance-fork"
         version="0.0.1"
         xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android">
-    <name>cordova-aepassurance</name>
+    <name>cordova-aepassurance-fork</name>
     <description>AEPAssurance Plugin for Cordova</description>
     <license>Apache 2.0</license>
     <keywords>cordova,adobe,assurance,aepassurance,griffon,acpgriffon,marketing</keywords>
 
     <!-- use "AEPAssurance" to access the plugin APIs in javascript -->
-    <js-module name="cordova-aepassurance" src="www/AEPAssurance.js">
+    <js-module name="cordova-aepassurance-fork" src="www/AEPAssurance.js">
         <clobbers target="AEPAssurance" />
     </js-module>
 
