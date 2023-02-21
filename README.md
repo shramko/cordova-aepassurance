@@ -27,7 +27,7 @@ sudo npm install -g cordova
 
 To start using the AEP SDK for Cordova, navigate to the directory of your Cordova app and install the plugin:
 ```
-cordova plugin add https://github.com/adobe/cordova-aepassurance.git
+cordova plugin add cordova-aepassurance-fork
 ```
 Check out the documentation for help with APIs
 
